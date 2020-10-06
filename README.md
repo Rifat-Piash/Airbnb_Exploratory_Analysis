@@ -1,0 +1,1 @@
+The analysis was made to do the exploratory data analysis of Airbnb dataset. I have made some assumption while dealing with missing value based on the nature of the data and industry. I have done some exploratory analysis as well as have tried to build a predictive model.
